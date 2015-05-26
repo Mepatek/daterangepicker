@@ -1,7 +1,7 @@
 {
-    "name": "mepatek/daterangepicker",
-    "description": "Nette Add-on daterangepicker component (bootstrap)",
-    "require": {
-        "php": ">=5.3.0",
-    }
+	"name": "mepatek/daterangepicker",
+	"description": "Nette component daterangepicker (bootstrap)",
+	"require": {
+		"php": ">=5.3.0",
+	}
 }
