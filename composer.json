@@ -2,6 +2,6 @@
 	"name": "mepatek/daterangepicker",
 	"description": "Nette component daterangepicker (bootstrap)",
 	"require": {
-		"php": ">=5.3.0",
+		"php": ">=5.3.0"
 	}
 }
